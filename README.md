@@ -1,5 +1,7 @@
 # Contracts for Nervos CKB
 
+> If you wanna use the logic code of **DNA** in non-smart-contract environment, see [rust-playground](https://github.com/rune-box/rust-playground).
+
 ## Usage
 > I still haven't tried a complete test.
 > The test code come from [Testing part](https://docs.nervos.org/docs/labs/capsule-exec/).
