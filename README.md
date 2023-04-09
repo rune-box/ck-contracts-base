@@ -1,8 +1,13 @@
 # Contracts for Nervos CKB
 
-> If you wanna use the logic code of **DNA** in non-smart-contract environment, see [rust-playground](https://github.com/rune-box/rust-playground).
+A Public Good focusing on multi-chain, which will demonstrate the cryptographic primitives on Nervos. This repository refactored and rewrited the logic in [rust-playground](https://github.com/rune-box/rust-playground) (PLAN), so if you wanna use the logic code of **DNA** in non-smart-contract environment, see [rust-playground](https://github.com/rune-box/rust-playground).
 
-## Usage
+0. [start](start.md): The start of learning CKB development.
+1. [scripts](scripts.md): The contracts scripts were organized from Nervos explorer.
+2. contracts (TODO)
+3. Code example of usage (TODO)
+
+## Common Usage
 > I still haven't tried a complete test.
 > The test code come from [Testing part](https://docs.nervos.org/docs/labs/capsule-exec/).
 
