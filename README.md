@@ -1,4 +1,6 @@
-# Contracts for Nervos CKB
+# Common Contracts for Nervos CKB
+
+> Yes, the repository name `Common Contracts Base` comes from `Common Knowledge Base`~ O(∩_∩)O
 
 A Public Good focusing on multi-chain, which will demonstrate the cryptographic primitives on Nervos. This repository refactored and rewrote the logic from [rust-playground](https://github.com/rune-box/rust-playground) (PLAN), so if you wanna use the logic code of **DNA** in non-smart-contract environment, see [rust-playground](https://github.com/rune-box/rust-playground).
 
